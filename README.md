@@ -2,9 +2,6 @@
 <h3 align="center">I'm a Ruby Back-end Developer</h3>
 
 ***
-<h3 align="center">🗣 My activity:</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=andriy-valchuk&show_icons=true&locale=en" alt="Andrii Valchuk" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=andriy-valchuk&show_icons=true&locale=en&layout=compact" alt="Andrii Valchuk" />&nbsp;</p>
-***
 
 <h3 align="center">🛠 Languages and Tools:</h3>
 
